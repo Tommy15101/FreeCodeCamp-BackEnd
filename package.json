@@ -1,6 +1,6 @@
 {
-	"author": "Tommy Atkins",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Tommy Atkins",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
